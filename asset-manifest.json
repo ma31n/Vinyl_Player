@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Vinyl_Player/static/css/main.2293cab9.css",
+    "main.js": "/Vinyl_Player/static/js/main.d506b849.js",
+    "static/media/Psalm 69.jpg": "/Vinyl_Player/static/media/Psalm 69.a0df0a831170ff06207a.jpg",
+    "static/media/bg1.jpg": "/Vinyl_Player/static/media/bg1.efaad190cdf95179bc2f.jpg",
+    "static/media/Low.jpg": "/Vinyl_Player/static/media/Low.fb64f383d00c2d2e6a59.jpg",
+    "static/media/Them Crooked Vultures.jpg": "/Vinyl_Player/static/media/Them Crooked Vultures.ee1fedc59ba0c27ba45e.jpg",
+    "static/media/Disintegration.jpg": "/Vinyl_Player/static/media/Disintegration.ed84267b4e573e5fb53f.jpg",
+    "static/media/Doom.jpg": "/Vinyl_Player/static/media/Doom.1b81c06a40bb18d99b48.jpg",
+    "static/media/Meddle.jpg": "/Vinyl_Player/static/media/Meddle.42f89eb4f52956193750.jpg",
+    "static/media/Mutter.jpg": "/Vinyl_Player/static/media/Mutter.e081fe8227b7821f2b44.jpg",
+    "static/media/Tango in the Night.jpg": "/Vinyl_Player/static/media/Tango in the Night.568b9165fe7be0f11483.jpg",
+    "static/media/Era Vulgaris.jpg": "/Vinyl_Player/static/media/Era Vulgaris.0f748e9b059993f67b2a.jpg",
+    "static/media/Paranoid.jpg": "/Vinyl_Player/static/media/Paranoid.38c67a855fb0f1f1de9b.jpg",
+    "static/media/Villains.jpg": "/Vinyl_Player/static/media/Villains.310c7417bcfb26457181.jpg",
+    "static/media/Purple Rain.jpg": "/Vinyl_Player/static/media/Purple Rain.b0970dce3b1344b26629.jpg",
+    "static/media/Tranquility Base Hotel & Casino.jpg": "/Vinyl_Player/static/media/Tranquility Base Hotel & Casino.0fe8b23e44288ef77bce.jpg",
+    "static/media/Celeste.jpg": "/Vinyl_Player/static/media/Celeste.518ecb9d73c6b04942f8.jpg",
+    "static/media/Zeit.jpg": "/Vinyl_Player/static/media/Zeit.72436b4c02e608872ce2.jpg",
+    "static/media/Countdown to Extinction.jpg": "/Vinyl_Player/static/media/Countdown to Extinction.6a526faa895c14058c23.jpg",
+    "static/media/Eat to the Beat.jpg": "/Vinyl_Player/static/media/Eat to the Beat.ee3be5d1d24dc742c710.jpg",
+    "static/media/Minecraft.jpg": "/Vinyl_Player/static/media/Minecraft.92bc732ba5067ac0af25.jpg",
+    "static/media/Journey.jpg": "/Vinyl_Player/static/media/Journey.beb6022d34ae90d04aba.jpg",
+    "static/media/mainbutton2.png": "/Vinyl_Player/static/media/mainbutton2.03d6b7524fa6e4ed5b9a.png",
+    "static/media/speaker2.png": "/Vinyl_Player/static/media/speaker2.c3c6e2598e04b74d3fc0.png",
+    "static/media/Kiss of Death.jpg": "/Vinyl_Player/static/media/Kiss of Death.dd559e2af38df30aed94.jpg",
+    "static/media/1999.jpg": "/Vinyl_Player/static/media/1999.c9a0ecaa0060022b3eeb.jpg",
+    "static/media/Roots.jpg": "/Vinyl_Player/static/media/Roots.ce1333b07715e65220e5.jpg",
+    "static/media/Songs for the Deaf.jpg": "/Vinyl_Player/static/media/Songs for the Deaf.4d1398a96710a8e32ec0.jpg",
+    "static/media/The Unfinished Swan.jpg": "/Vinyl_Player/static/media/The Unfinished Swan.8e99c8ffc386ae816e5b.jpg",
+    "static/media/Tunguzija.jpg": "/Vinyl_Player/static/media/Tunguzija.78356acdcb389c3ff0fc.jpg",
+    "static/media/Portamento.jpg": "/Vinyl_Player/static/media/Portamento.f01b00dbb1fb96c31e4b.jpg",
+    "static/media/Undertale.jpg": "/Vinyl_Player/static/media/Undertale.5517ac43553e1d43a606.jpg",
+    "index.html": "/Vinyl_Player/index.html",
+    "main.2293cab9.css.map": "/Vinyl_Player/static/css/main.2293cab9.css.map",
+    "main.d506b849.js.map": "/Vinyl_Player/static/js/main.d506b849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2293cab9.css",
+    "static/js/main.d506b849.js"
+  ]
+}
