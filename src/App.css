@@ -1,0 +1,159 @@
+@keyframes rotate {
+    100% {
+      transform: rotate(360deg)
+    }
+  }
+
+.ripple {
+  animation: ripple 0.5s linear infinite;
+}
+
+.ripple::before,
+.ripple::after {
+  content: "";
+  grid-area: 1/1;
+  border-radius: 50%;
+  animation: inherit;
+  animation-delay: 1s;
+}
+
+.ripple::after {
+  animation-delay: 2s;
+}
+
+@keyframes ripple {
+  0% {
+    box-shadow: 0 0 0 .7rem rgba(219, 161, 2, 0.2);
+  }
+  100% {
+    box-shadow: 0 0 0 8rem rgba(255, 255, 255, 0);
+  }
+}
+
+  .speakers{
+    width: 250px;
+  }
+
+  .mainbutton{
+    animation: rotate 3s linear infinite;
+  }
+  
+  .mainbutton:hover{
+    height: 90%;
+    animation: rotate 1s linear infinite;
+  }
+  
+  .maincontainer{
+    margin: auto !important;
+    text-align: center;
+  }
+  
+  body{
+    background-image: url(./Images/bg1.jpg); 
+  }
+  
+  .navbar-rock,.navbar-metal,.navbar-ost,.navbar-other{
+    margin-bottom: 2%;
+  }
+  .navbar-rock{
+    background-color: rgba(115,0,0,1);
+  }
+
+
+  .navbar-metal{
+    background-color: rgba(106,0,181,1);
+  }
+
+  .navbar-ost{
+    background-color: rgba(255,141,0,1);
+  }
+
+  .navbar-other{
+    background-color:rgb(0,184,185);
+  }
+
+.Rock{
+  background: rgb(115,0,0);
+  background: linear-gradient(0deg, rgba(115,0,0,1) 5%, rgba(255,0,0,1) 66%);
+  filter: brightness(95%);
+  background-image: radial-gradient(circle at center center, rgba(255,0,0,1), rgba(115,0,0,1)), repeating-radial-gradient(circle at center center, #444cf7, #444cf7, 10px, transparent 20px, transparent 10px);
+  background-blend-mode: multiply;
+}
+
+.Metal{
+  background: rgb(75,0,115);
+  background: linear-gradient(0deg, rgba(75,0,115,1) 6%, rgba(106,0,181,1) 30%); 
+  filter: brightness(95%);
+  background-image: radial-gradient(circle at center center, rgba(106,0,181,1), rgba(75,0,115,1)), repeating-radial-gradient(circle at center center, black, black, 10px, transparent 20px, transparent 10px);
+  background-blend-mode: multiply;
+}
+
+.OST{
+  background: rgb(115,0,0);
+  background: linear-gradient(0deg, rgba(115,0,0,1) 5%, rgba(255,141,0,1) 66%);
+  filter: brightness(95%);
+  background-image: radial-gradient(circle at center center, rgba(115,0,0,1), rgba(255,141,0,1)), repeating-radial-gradient(circle at center center, #444cf7, #444cf7, 10px, transparent 20px, transparent 10px);
+  background-blend-mode: multiply;
+}
+
+.Other{
+  background: rgb(0,184,185);
+  background: linear-gradient(0deg, rgba(0,184,185,1) 5%, rgba(0,254,255,1) 66%);
+  filter: brightness(95%);
+  background-image: radial-gradient(circle at center center, rgba(0,184,185,1), rgba(0,254,255,1)), repeating-radial-gradient(circle at center center, black, black, 10px, transparent 20px, transparent 10px);
+  background-blend-mode: multiply;
+}
+
+body,.Rock,.Metal,.Other,.OST{
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  height: 100vh;
+}
+
+
+h1{
+  color: white;
+  padding: 10px;
+}
+
+.arrows{
+  font-size: 40px;
+  color: black;
+  padding: 10px;
+}
+
+.headtext{
+  font-size: 40px;
+  text-align: center;
+}
+
+.bottomnav{
+  background-color: rgba(0, 0, 0, 0.624);
+  position: fixed;
+  width:100%;
+  overflow: hidden;
+  bottom: 0;
+}
+
+.player{
+  display:none;
+}
+
+.albumcovers{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+}
+
+.albumcontainers{
+  text-align: center;
+}
+
+.desc{
+  padding: 2px;
+}
+
+h3,h5{
+  color: white;
+  text-shadow: 0 0 5px black;
+}
